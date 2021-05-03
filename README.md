@@ -44,7 +44,7 @@ let luis = {
 <a href="https://www.linkedin.com/in/luisejrobles/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="https://www.twitter.com/luisejrobles/"><img alt="Twitter" src="https://img.shields.io/twitter/follow/luisejrobles?style=social"/></a> 
 <a href="mailto:luisejimenezrobles@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
-<a href="https://instagram.com/luisejrobles"><img src=""/></a> &nbsp;
+<a href="https://instagram.com/luisejrobles"><img src="https://img.shields.io/badge/-@luisejrobles_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
 <!--
 **luisejrobles/luisejrobles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
