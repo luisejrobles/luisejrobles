@@ -3,7 +3,7 @@
 My name is **Luis Jiménez** <br>
 <img align="right" src="https://i.imgur.com/hxrQR2z.jpg" width="340px">
 I'm from México 🇲🇽<br>and I'm a passionate Software Engineer transitioning to a Product/Project Manager role. <br>
-Important: I have a cat called Chitú *(wich means cat in mixteco)* 🐈
+**Important:** I have a cat called Chitú *(wich means cat in mixteco)* 🐈
 
 <a href="https://www.linkedin.com/in/luisejrobles/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="https://www.twitter.com/luisejrobles/"><img alt="Twitter" src="https://img.shields.io/twitter/follow/luisejrobles?style=social"/></a> 
