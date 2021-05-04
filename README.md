@@ -15,7 +15,7 @@ Important: I have a cat called Chitú *(wich means cat in mixteco)* 🐈
 ```javascript
 let luis = {
   pronouns: "he/him",
-  interestedIn: ["management", "front end", "CI/CD"]
+  interests: ["management", "front end", "CI/CD"]
   frontend: [
     "typescript",
     "js",
@@ -25,7 +25,6 @@ let luis = {
     "Material Angular",
     "Materialize",
   ],
-  preferredTools: ["Linux", "VS Code"],
   backend: [
     "apollo server",
     "apollo federation",
@@ -40,6 +39,7 @@ let luis = {
   "firebase realtime database", "postgreSQL"],
   cloud: ["GCP", "Azure","Digital Ocean"],
   general: ["git", "bash", "scripting"],
+  tools: ["Linux", "VS Code"],
 };
 ```
 
