@@ -15,7 +15,7 @@ I'm from México 🇲🇽<br>and I'm a passionate Software Engineer transitionin
 ```javascript
 let luis = {
   pronouns: "he/him",
-  interests: ["management", "front end", "CI/CD"]
+  interests: ["management", "front end", "CI/CD"],
   frontend: [
     "typescript",
     "js",
